@@ -1,0 +1,65 @@
+
+    body {
+        /* padding:10px; */
+    }
+    #searchFoods {
+        margin:10px;
+    }
+    .food-btn{
+        width: 100px;
+        height: 45px;
+        background-color: white;
+        color:#ffa726;
+        font-size: 22px;
+        /* font-weight: bold; */
+        margin: 10px 10px 10px 10px;
+    }
+    #header{
+        margin: 10px;
+        padding:0px;
+    }
+    /* .slider {
+        height: 200px;
+    } */
+
+    #buttonList, #beerOutput, #movies-view {
+        padding :20px;
+    }
+    #searchBar {
+        height:90px;
+    } 
+    /* #beerView, #moviesView {
+        width: 500px;
+        height: 630px;
+        border: 1px solid rgb(252, 243, 243);
+        border-radius:30px;
+        padding: 15px;
+        /* box-shadow: 10px 10px 5px rgb(219, 213, 213); */
+        /* background-image: linear-gradient(to bottom right, rgb(250, 209, 209), rgb(252, 249, 249), rgb(252, 231, 185)); 
+        z-index:-1;
+    } */ 
+
+    #controls {
+        margin:20px 0 0 20px;
+    }
+
+    .beerInformation {
+        font-size: 17px;
+        margin:0 0 0 20px;
+    }
+
+    .moviesInformation {
+        font-size:18px;
+        margin:0 0 0 20px;
+    }
+    .page-footer{
+        margin-top: 30px;
+    }
+   
+    @media all and (max-width: 750px) {
+          
+        #beerView, #moviesView {
+            width: 95%;
+            /* height: 500px; */}
+    }
+    
