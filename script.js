@@ -145,7 +145,7 @@
             
             // var movie = $(this).attr("data-name");
             // var year = firstBrewed;
-            var queryURL = "http://www.omdbapi.com/?apikey=3f779744&t=beer&y=" + year;
+            var queryURL = "https://www.omdbapi.com/?apikey=3f779744&t=beer&y=" + year;
                   
             $.ajax({
               url: queryURL,
