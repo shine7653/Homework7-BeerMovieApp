@@ -1,5 +1,8 @@
 # Homework7-BeerMovieApp
 
+<img src="screenshot/beermovie.png" width="60%" height="60%">
+
+
 1. Layout done - navbar, carousel, search bar, button lists, audio file, the place holders for data
 <img src="screenshot/20191104_205533.png" width="60%" height="60%">
 
